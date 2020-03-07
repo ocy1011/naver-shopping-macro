@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+
+#title {
+  color: #35c911;
+}
+
+input {
+  font-size: 20px;
+  text-align: center;
+}
+
+#error {
+  color: #e21b3c;
+  display: none;
+}
+
+#refresh {
+  color: #d89e00;
+  display: none;
+}
+
+#success {
+  color: #26890c;
+  display: none;
+}

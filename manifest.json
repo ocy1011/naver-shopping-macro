@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "네이버 쇼핑 매크로",
+  "version": "0.0.2",
+  "description": "네이버 쇼핑 매크로",
+  "browser_action": {
+    "default_popup": "popup.html",
+    "dafult_icon": "icon.png"
+  },
+  "permissions": ["activeTab", "tabs"]
+}
